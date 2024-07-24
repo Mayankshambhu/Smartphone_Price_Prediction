@@ -47,11 +47,11 @@ To use this project, follow these steps:
 ```
 smartphone-data-analysis/
 │
-├── Smart_phone.ipynb      # Jupyter Notebook with the analysis
-├── data/                  # Directory to store datasets
-│   └── smartphone_data.csv  # Example dataset (to be added)
-├── README.md              # This readme file
-└── requirements.txt       # List of required libraries
+├── Smart_phone.ipynb     
+├── data/                
+│   └── smartphone_data.csv  
+├── README.md             
+└── requirements.txt       
 ```
 
 ## Contributing
